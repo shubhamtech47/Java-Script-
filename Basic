@@ -1,0 +1,72 @@
+// console.log("Hello World!");
+// console.log("Shubham Kumar");
+// let a = 10;
+// let b = 20;
+// console.log("Sum is : ", a+b);
+// let pencilPrice = 10;
+// let erasorPrice = 20;
+// let output = `The output price is : ${pencilPrice + erasorPrice} Rupees.`;
+// console.log(output);
+
+// //Arithemetic Operators
+
+// let c = 10;
+// let d = 12;
+// console.log(c + d);
+// console.log(c - d);
+// console.log(c / d);
+// console.log(c * d);
+
+// let age = 20;
+// console.log(age > 18);
+
+//Practice Qs
+//create a traffic light system that shows what to do based on color
+
+// let color = "red";
+
+// if(color === "red"){
+//     console.log("Stop !");
+// }
+
+// if(color === "yellow"){
+//     console.log("slow down");
+// }
+
+// if(color === "green"){
+//     console.log("Go");
+// }
+
+//Create a system to calculate popcorn prices based on the size customer asked for;
+
+// let size = "XL";
+
+// if(size === "XL"){
+//     console.log("price is Rs 250")
+// }else if(size === "L"){
+//     console.log("price is Rs 200")
+// }else if(size === "M"){
+//     console.log("price is Rs. 100")
+// }else{
+//     console.log("price is rs. 50")
+// }
+
+//Nesting is writing if-else inside if-else statements. it can have many levels.
+
+//Q. A "good string " is a string that starts with the letter 'a' & has a length > 3. write a program to find if a string is good or not.
+
+// let str = "apple";
+
+// if((str[0] === 'a') && (str.length > 3)){
+//     console.log("good string");
+// }else{
+//     console.log("not a good string");
+// }
+
+// let num = 12;
+
+// if((num % 3 === 0) && ((num+1 === 15) || (num-1 === 11))){
+//     console.log("safe");
+// }else{
+//     console.log("unsafe");
+// }
